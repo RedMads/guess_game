@@ -6,10 +6,10 @@ C++ is HARD and ADVANCED for me but i will go through it :P
 
 The IDEA of this game:
 
-    The computer will choose a random number based on the configuration file
+    The Program will choose a random number based on the configuration file
     the High number the more Harder!, is simple Classic Guessing Game!
     
-    If you close to the number it will let you know by 2 Msges (Low, High)
+    If you close to the number the program will let you know by 2 Msges (Low, High)
 
 
     WARNING:
