@@ -15,7 +15,7 @@ Good Luck!
 
 
 # Screenshot
-![guess_game](https://github.com/RedMads/guess_game/screenshots/screenshot.png)
+![guess_game](https://github.com/RedMads/guess_game/blob/main/screenshots/screenchot.png)
 
 ## install for  linux
 ***
