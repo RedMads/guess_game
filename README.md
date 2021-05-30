@@ -1,4 +1,4 @@
-# guess_game
+# What is guess_game ?
 Simple classic Guess game written in C++ !
 
 
