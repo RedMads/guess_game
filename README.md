@@ -2,19 +2,14 @@
 Simple classic Guess game written in C++ !
 
 
-# Features
+# How to Play?
 ***
-simple CLI
+The Program will choose a random number based on the configuration file
+the High number the more Harder!, is simple Classic Guessing Game!
 
-12 types of hashs
+If you close to the number the program will let you know by 2 Msges (Low, High)
 
-speed hashing!
-
-runtime count
-
-colorful menus
-
-git clone and discover more!
+Good Luck!
 ***
 
 
