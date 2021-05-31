@@ -2,6 +2,9 @@
 Simple classic Guess game written in C++ !
 
 
+
+
+
 # How to Play?
 ***
 The Program will choose a random number based on the configuration file
